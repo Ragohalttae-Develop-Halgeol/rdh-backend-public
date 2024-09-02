@@ -1,0 +1,39 @@
+spring:
+  application:
+    name: sfermions-backend-local
+  datasource:
+    url: # RDS PostgreSQL 엔드포인트와 데이터베이스 이름
+    username: # RDS PostgreSQL 사용자 이름
+    password: # RDS PostgreSQL 비밀번호
+    driver-class-name: org.postgresql.Driver     
+
+  jpa:
+    hibernate:
+      ddl-auto: update  # 자동으로 스키마를 업데이트하는 옵션
+    show-sql: true      # 실행되는 SQL 쿼리를 출력할지 여부
+    properties:
+      hibernate:
+        format_sql: true  # SQL 포맷팅
+
+cloud:
+  aws:
+    credentials:
+      accessKey: # AWS Access Key
+      secretKey: # AWS Secret Key
+    region:
+      static: # AWS Region (예: 서울 리전)
+    s3:
+      bucket: # S3 버킷 이름
+
+jwt:
+  issuer: jwt_issuer
+  secret_key: jwt_secret_key
+
+server:
+  port: 8081
+  
+logging:
+  level:
+    org.springframework.security: DEBUG
+    org.springframework.web: DEBUG
+    com.sfermions: DEBUG  # 본인의 패키지명
