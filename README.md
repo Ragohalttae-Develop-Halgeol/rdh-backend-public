@@ -66,7 +66,7 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 
-## 🎉 수상
+## 🎉 [우수상] 2등 
 
 <img src="https://github.com/user-attachments/assets/2fe51b85-eddf-4326-9dce-78b403cc0719" width=500>
 
