@@ -10,7 +10,7 @@
 ## 해커톤 결과
 
 ![KakaoTalk_Photo_2024-09-02-13-21-01](https://github.com/user-attachments/assets/2fe51b85-eddf-4326-9dce-78b403cc0719)
-
+<img src="https://github.com/user-attachments/assets/2fe51b85-eddf-4326-9dce-78b403cc0719" width=500>
 # 윙커톤 3팀 : 방울
 
 ## 👋프로젝트 소개
