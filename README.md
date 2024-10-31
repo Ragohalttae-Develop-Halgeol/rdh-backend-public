@@ -1,16 +1,3 @@
-# back-end
-[2024 WINK x The compass 해커톤]
-
-## Private 래포를 Public 레포로 이전
-
-### Private 레포 
-![스크린샷 2024-09-02 오전 9 23 03](https://github.com/user-attachments/assets/0122d405-fe4e-463e-9b83-fad101725118)
-
-
-## 해커톤 결과
-
-![KakaoTalk_Photo_2024-09-02-13-21-01](https://github.com/user-attachments/assets/2fe51b85-eddf-4326-9dce-78b403cc0719)
-<img src="https://github.com/user-attachments/assets/2fe51b85-eddf-4326-9dce-78b403cc0719" width=500>
 # 윙커톤 3팀 : 방울
 
 ## 👋프로젝트 소개
@@ -51,12 +38,12 @@
 </div>
 
 ## 📋주요 기능
-+ 로그인 화면 - 방울이라는 컨셉에 맞춰서 화면을 튕겨 돌아다니는 공들을 배경화면으로 하였습니다. 
++ 로그인 기능 구현 - Spring Security, JWT를 사용한 로그인, 회원가입 기능 구현
 <br>
 <img src="https://github.com/user-attachments/assets/f67d386f-86d5-4b31-992b-7308f374ce52" width=450>
 <br>
 
-+ 메인 화면 - 스와이프를 통해 글들을 탐색할 수 있습니다. 글들도 조금씩 움직이는 방울로 디자인 했습니다. 메뉴는 유리막 같은 느낌을 줘서 컨셉에 맞췄습니다.
++ 메인 화면 - 
 <br>
 <img src="https://github.com/user-attachments/assets/8bd39d80-b3bd-47b5-9ed3-08e9cc279a0b" width=450>
 <br>
@@ -78,5 +65,7 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 
+## 해커톤 결과
 
+<img src="https://github.com/user-attachments/assets/2fe51b85-eddf-4326-9dce-78b403cc0719" width=500>
 
