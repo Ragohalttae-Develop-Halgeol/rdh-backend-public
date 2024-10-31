@@ -43,17 +43,17 @@
 <img src="https://github.com/user-attachments/assets/f67d386f-86d5-4b31-992b-7308f374ce52" width=450>
 <br>
 
-+ 메인 화면 - 
++ 메인 화면 - 다른 사람이 올린 글을 볼 수 있도록 구현
 <br>
 <img src="https://github.com/user-attachments/assets/8bd39d80-b3bd-47b5-9ed3-08e9cc279a0b" width=450>
 <br>
 
-+ 상세 보기 잠금 - 메인화면에서 글을 클릭하면 상세 보기로 넘어옵니다. 요청하기 버튼을 눌러 경험 공유 요청을 보낼 수 있습니다. 메인 글 옆의 방울들은 각각 경험 공유 요청 글입니다.
++ 상세 보기 
 <br>
 <img src="https://github.com/user-attachments/assets/7d334498-b88b-4afa-ab0d-5accc1e18576" width=450>
 <br>
 
-+ 요청 보내기 - 경험을 입력해서 요청을 보낼 수 있습니다.
++ 요청 보내기
 <br>
 <img src="https://github.com/user-attachments/assets/c014fe49-4bc1-40c2-bfed-ee8f4bf2391a" width=450>
 <br>
@@ -61,9 +61,8 @@
 
 
 ## 🪡사용한 기술
-<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/aws-ec2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 
 ## 해커톤 결과
 
